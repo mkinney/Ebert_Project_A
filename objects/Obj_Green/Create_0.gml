@@ -13,3 +13,5 @@ global.ii = 2;
 
 x = 100;
 // Green refers to a built in variable
+
+pause = false;
